@@ -1,0 +1,10 @@
+
+/*colo fondo pagina principal*/
+body#principal{
+    background-color: rgba(31, 158, 231, 0.404);
+}
+
+/* colo fondo episodio 1*/
+body#amenaza{
+    background-color: rgba(243, 229, 33, 0.404);
+}
